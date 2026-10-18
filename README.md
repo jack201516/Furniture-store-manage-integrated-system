@@ -56,16 +56,9 @@ Select your project and click Install.
 ### Step 4: Run the Project
 Press the F5 key on your keyboard, or click the green "Start" button at the top.
 After the system starts, you can log in using the default test account in the SQL file:
-(Sales)      : U00001 / Password: a1234
-(design)     : U00002 / Password: a1234
-(production) : U00003 / Password: a1234
-(whouse)     : U00004 / Password: a1234
-(shipping)   : U00005 / Password: a1234
-(manager)    : U00006 / Password: a1234
 
 
-
--------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 # PLFC System User Guide
 
@@ -94,6 +87,14 @@ This guide covers the operational procedures for each department and role in the
 1. Enter your **userID** and **password** [cite: 8].
 
 2. Click the **Login** button [cite: 8]. 3. The system will automatically redirect you to the corresponding department page based on your user identity [cite: 8].
+
+3.
+(Sales)      : U00001 / Password: a1234
+(design)     : U00002 / Password: a1234
+(production) : U00003 / Password: a1234
+(whouse)     : U00004 / Password: a1234
+(shipping)   : U00005 / Password: a1234
+(manager)    : U00006 / Password: a1234
 
 ---
 ## Sales Department
