@@ -122,6 +122,7 @@ This guide covers the operational procedures for each department and role in the
 ### 2. Viewing and Editing Orders
 
 1. Click **Order List** in the main menu to view all orders [cite: 8].
+
 ![product detail](images/Vieworder.png)
 2. Click on the selected order and then click **View Details** to view the details [cite: 8].
 ![product detail](images/ORDERDETAIL.png)
