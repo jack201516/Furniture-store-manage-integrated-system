@@ -16,9 +16,11 @@ Inventory and customer complaint handling: Automatic inventory deduction, return
 
 ## Architecture & Database
 ER Diagram:
+
 ![Place order](images/ERD.png)
 
 3-Tier OF SALES
+
 ![Place order](images/Tier.png)
 
 ## Getting Started
