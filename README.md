@@ -20,6 +20,7 @@ ER Diagram:
 
 3-Tier OF SALES
 ![Place order](3-Tier/ERD.png)
+
 ## Getting Started
 
 ### Step 1: Open a Visual Studio project (.sln)
