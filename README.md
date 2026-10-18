@@ -124,10 +124,15 @@ This guide covers the operational procedures for each department and role in the
 1. Click **Order List** in the main menu to view all orders [cite: 8].
 
 ![product detail](images/Vieworder.png)
+
 2. Click on the selected order and then click **View Details** to view the details [cite: 8].
+
 ![product detail](images/ORDERDETAIL.png)
+
 3. Click the **Edit** button to modify the delivery date or cancel an order item. Click **SAVE** when finished. [cite: 8]
+
 ![product detail](images/EDITorder.png)
+
 ### 3. View and add complaint
 
 1. Click **Complaint** in the main menu to access the complaint list. [cite: 8]
