@@ -14,6 +14,12 @@ Order lifecycle tracking: From order placement, customization requirements, mate
 Inventory and customer complaint handling: Automatic inventory deduction, return and exchange processes.
 
 
+## Architecture & Database
+ER Diagram:
+![Place order](images/ERD.png)
+
+3-Tier OF SALES
+![Place order](3-Tier/ERD.png)
 ## Getting Started
 
 ### Step 1: Open a Visual Studio project (.sln)
