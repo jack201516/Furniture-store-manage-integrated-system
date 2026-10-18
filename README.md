@@ -127,13 +127,21 @@ This guide covers the operational procedures for each department and role in the
 
 ## Design Department
 
-### View orders and add customization requirements
+### View orders and  customization requirements
 
 1. View orders with the status `Designing` on the Design Department homepage. [cite: 8]
 
 2. Click **View Details** to access the form. [cite: 8]
 
-3. Enter the customer's customization requirements in the **Custom** field. After confirming that everything is correct, click **Done**. The order status will automatically update to `Production`. [cite: 8]
+3. View the customer's customization requirements in the **Custom** field. After the product sketch design is completed , click **Done**. The order status will automatically update to `Production`. [cite: 8]
+
+## View orders and  customization requirements
+
+1. View orders with the status `Designing` on the Design Department homepage. [cite: 8]
+
+2. Click **View Details** to access the form. [cite: 8]
+
+3. View the customer's customization requirements in the **Custom** field. After the product sketch design is completed , click **Done**. The order status will automatically update to `production`. [cite: 8]
 
 ---
 
@@ -149,6 +157,14 @@ This guide covers the operational procedures for each department and role in the
 
 1. Click **Material order List** to view the latest status of all material requests (e.g., waiting, approved, Done) [cite: 8].
 
+
+## View orders and  customization requirements
+
+1. View orders with the status ` production` on the Design Department homepage. [cite: 8]
+
+2. Click **View Details** to access the form. [cite: 8]
+
+3. View the customer's customization requirements in the **Custom** field. After the product sketch design is completed , click **Done**. The order status will automatically update to ` Warehouse`. [cite: 8]
 ---
 
 ## Warehouse Department
