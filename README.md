@@ -103,9 +103,9 @@ This guide covers the operational procedures for each department and role in the
 ### 1. Placing an Order
 
 1. Go to the "New order" page, select the product category and choose the product [cite: 8].
-![Place order](images/Place order.png)
+![Place order](images/Place_order.png)
 2. Click to enter the details page, enter the quantity and notes [cite: 8].
-![product detail](images/product detail.png)
+![product detail](images/product_detail.png)
 3. Click **Add to Cart** to add the item to your cart [cite: 8].
 
 4. On the cart page, confirm the customer information, payment method (Cash/Visa/MasterCard), and shipping date, then click **Confirm Order** [cite: 8].
