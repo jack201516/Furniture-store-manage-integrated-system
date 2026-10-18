@@ -150,18 +150,11 @@ This guide covers the operational procedures for each department and role in the
 ### View orders and  customization requirements
 
 1. View orders with the status `Designing` on the Design Department homepage. [cite: 8]
-
+![product detail](images/DesignDepartment.png)
 2. Click **View Details** to access the form. [cite: 8]
-
+![product detail](images/customerscustomiserequest.png)
 3. View the customer's customization requirements in the **Custom** field. After the product sketch design is completed , click **Done**. The order status will automatically update to `Production`. [cite: 8]
 
-## View orders and  customization requirements
-
-1. View orders with the status `Designing` on the Design Department homepage. [cite: 8]
-
-2. Click **View Details** to access the form. [cite: 8]
-
-3. View the customer's customization requirements in the **Custom** field. After the product sketch design is completed , click **Done**. The order status will automatically update to `production`. [cite: 8]
 
 ---
 
@@ -171,13 +164,14 @@ This guide covers the operational procedures for each department and role in the
 
 1. Click **Material request** to view orders in production [cite: 8].
 
+![product detail](images/Requestmaterial.png)
 2. Select the material, click **View Details**, enter the required quantity (Qty), and then click **order** [cite: 8].
-
+![product detail](images/orderqty.png)
 ### 2. View Material Request
 
 1. Click **Material order List** to view the latest status of all material requests (e.g., waiting, approved, Done) [cite: 8].
 
-
+![product detail](images/materialorderlog.png)
 ## View orders and  customization requirements
 
 1. View orders with the status ` production` on the Design Department homepage. [cite: 8]
@@ -193,8 +187,10 @@ This guide covers the operational procedures for each department and role in the
 
 1. Click **Current Stock** to view the current inventory list [cite: 8].
 
+![product detail](images/currentstock.png)
 2. Click the **add material** button, fill in the name, quantity, and price, and then click **add** [cite: 8].
 
+![product detail](images/addnewmaterial.png)
 ### 2. Approving the Material Request
 
 1. Click **Material order List**, select the request with the status `waiting`, and click **View Details** [cite: 8].
