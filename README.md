@@ -84,7 +84,7 @@ This guide covers the operational procedures for each department and role in the
 
 ## Login
 
-1. Enter your **userID** and **password** [cite: 8].
+1. Enter your **userID** and **password** [cite: 8]. ![System login screen](images/LOGIN.png)
 
 2. Click the **Login** button [cite: 8]. 3. The system will automatically redirect you to the corresponding department page based on your user identity [cite: 8].
 
