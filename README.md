@@ -19,7 +19,7 @@ ER Diagram:
 ![Place order](images/ERD.png)
 
 3-Tier OF SALES
-![Place order](Tier/ERD.png)
+![Place order](images/Tier.png)
 
 ## Getting Started
 
